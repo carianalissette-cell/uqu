@@ -1,0 +1,6 @@
+{
+  "name": "MacBook Air OS",
+  "description": "Experiencia interactiva de MacBook Air en la web con inicio automático, carpetas, notas, galería, audios, archivos ZIP, Spotify, WhatsApp e Instagram.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
